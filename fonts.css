@@ -7,7 +7,12 @@
 /* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
 /* Licensed under the SIL OFL 1.1 (font), MIT (CSS)                              */
 /*********************************************************************************/
-
+header{
+	background:#282828;
+	width:200px;
+	height:100px;
+	
+}
 	.fa
 	{
 		text-decoration: none;
